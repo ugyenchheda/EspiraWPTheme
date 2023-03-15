@@ -230,7 +230,7 @@ function espira_scripts()
     wp_enqueue_style('espira', get_stylesheet_uri());
 
     wp_enqueue_style('font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/5.4.0/css/font-awesome.min.css');
-    wp_enqueue_script('google-map', 'http://maps.google.com/maps/api/js?sensor=false&libraries=places&language=en-AU&key=AIzaSyBr2q08BHCBK-HWA3y0InCwKsCcxPwHDcU');
+    wp_enqueue_script('google-map', 'here goes google map api');
     wp_script_add_data('google-map', 'defer', true);
     wp_enqueue_script('popper', get_template_directory_uri() . '/js/popper.js', array(), '20151215', true);
     wp_enqueue_script('espira-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true);
