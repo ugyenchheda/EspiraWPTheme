@@ -1,0 +1,19 @@
+.pw-map {
+  height: 400px;
+  width: 99%;
+  margin: 5px 1px 1px;
+  border: solid 1px #ddd;
+  box-sizing: border-box;
+}
+.pw-map img {
+  max-width: none;
+}
+.CodeMirror-wrap pre {
+  margin-left: 50px !important;
+}
+.CodeMirror {
+  max-height: 80px !important;
+}
+/* .cmb2-textarea-code {
+  display: block !important;
+} */
