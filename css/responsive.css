@@ -1164,10 +1164,6 @@
   .searchform .form-group:first-of-type {
     max-width: 165px;
   }
-
-  .header-right p {
-    font-size: 11px;
-  }
 }
 
 @media (min-width: 992px) and (max-width: 1024px) {
