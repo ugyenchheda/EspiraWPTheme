@@ -4,22 +4,6 @@
 	Description: 
 	Framework / 
 
-@font-face {
-  font-family: "Arial Rounded MT";
-  src: url("../fonts/ArialRoundedMTBold.woff2") format("woff2"),
-    url("../fonts/ArialRoundedMTBold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Luckiest Guy";
-  src: url("../fonts/LuckiestGuy-Regular.woff2") format("woff2"),
-    url("../fonts/LuckiestGuy-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
