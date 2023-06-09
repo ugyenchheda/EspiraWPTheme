@@ -17,7 +17,7 @@ get_header();
 					<div class="col-md-12">
 						<h4><?php _e( '404', 'espira')?></h4>
 						<p><?php _e( 'Side ikke funnet !', 'espira')?></p>
-						<p class="desc"><?php _e( 'Siden du ser er ikke funnet. ', 'espira')?></p>
+						<p class="desc"><?php _e( 'Siden du ser er ikke funnet. ', 'espira website ')?></p>
 						<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><i class="fa fa-angle-left"></i><?php _e( 'Go Back', 'espira')?></a>
 					</div>
 				</div>
